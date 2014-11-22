@@ -1,0 +1,2 @@
+D:\C++程序\s5-1\s5-1\obj\x86\Debug\s5_1.Properties.Resources.resources
+D:\C++程序\s5-1\s5-1\obj\x86\Debug\s5-1.csproj.GenerateResource.Cache
